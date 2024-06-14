@@ -452,6 +452,12 @@ def parse_args(args):
         action="store_true",
         help='Use SigLip (sigmoid) loss.'
     )
+    parser.add_argument(
+        "--pseudo_split",
+        type=float,
+        default=0.0,
+        help='Portion for split in Pseudo-Euclidean.'
+    )
 
     args = parser.parse_args(args)
 

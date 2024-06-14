@@ -369,6 +369,7 @@ def create_loss(args):
         rank=args.rank,
         world_size=args.world_size,
         use_horovod=args.horovod,
+        pseudo_split=args.pseudo_split,
     )
 
 

@@ -73,6 +73,7 @@ class ClipLoss(nn.Module):
             rank=0,
             world_size=1,
             use_horovod=False,
+            pseudo_split=0.0,
     ):
         super().__init__()
         self.local_loss = local_loss
@@ -85,6 +86,7 @@ class ClipLoss(nn.Module):
         # cache state
         self.prev_num_logits = 0
         self.labels = {}
+        self.split_portion = pseudo_split
 
     def get_ground_truth(self, device, num_logits) -> torch.Tensor:
         # calculated ground-truth and cache if enabled
@@ -112,17 +114,21 @@ class ClipLoss(nn.Module):
                 logits_per_image = logit_scale * all_image_features @ all_text_features.T
                 logits_per_text = logits_per_image.T
         else:
-            # logits_per_image = logit_scale * image_features @ text_features.T
-            # logits_per_text = logit_scale * text_features @ image_features.T
-            half_dim = image_features.shape[1] // 2
-            image_features_top_half = image_features[:, :half_dim]
-            image_features_bottom_half = image_features[:, half_dim:]
-            text_features_top_half = text_features[:, :half_dim]
-            text_features_bottom_half = text_features[:, half_dim:]
-            # print(image_features_top_half.shape, text_features_top_half.shape, image_features_bottom_half.shape, text_features_bottom_half.shape)
+            if self.split_portion == 0.0:
+                logits_per_image = logit_scale * image_features @ text_features.T
+                logits_per_text = logit_scale * text_features @ image_features.T
+            else:
+                split_part = int(image_features.shape[1] * self.split_portion)
+                image_features_part1 = image_features[:, :split_part]
+                image_features_part2 = image_features[:, split_part:]
+                text_features_part1 = text_features[:, :split_part]
+                text_features_part2 = text_features[:, split_part:]
+                # print(image_features_part1.shape, image_features_part2.shape)
 
-            logits_per_image = logit_scale * (image_features_top_half @ text_features_top_half.T - image_features_bottom_half @ text_features_bottom_half.T)
-            logits_per_text = logit_scale * (text_features_top_half @ image_features_top_half.T - text_features_bottom_half @ image_features_bottom_half.T)
+                logits_per_image = logit_scale * (
+                            image_features_part1 @ text_features_part1.T - image_features_part2 @ text_features_part2.T)
+                logits_per_text = logit_scale * (
+                            text_features_part1 @ image_features_part1.T - text_features_part2 @ image_features_part2.T)
 
         return logits_per_image, logits_per_text
 
