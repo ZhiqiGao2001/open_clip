@@ -112,9 +112,18 @@ class ClipLoss(nn.Module):
                 logits_per_image = logit_scale * all_image_features @ all_text_features.T
                 logits_per_text = logits_per_image.T
         else:
-            logits_per_image = logit_scale * image_features @ text_features.T
-            logits_per_text = logit_scale * text_features @ image_features.T
-        
+            # logits_per_image = logit_scale * image_features @ text_features.T
+            # logits_per_text = logit_scale * text_features @ image_features.T
+            half_dim = image_features.shape[1] // 2
+            image_features_top_half = image_features[:, :half_dim]
+            image_features_bottom_half = image_features[:, half_dim:]
+            text_features_top_half = text_features[:, :half_dim]
+            text_features_bottom_half = text_features[:, half_dim:]
+            # print(image_features_top_half.shape, text_features_top_half.shape, image_features_bottom_half.shape, text_features_bottom_half.shape)
+
+            logits_per_image = logit_scale * (image_features_top_half @ text_features_top_half.T - image_features_bottom_half @ text_features_bottom_half.T)
+            logits_per_text = logit_scale * (text_features_top_half @ image_features_top_half.T - text_features_bottom_half @ image_features_bottom_half.T)
+
         return logits_per_image, logits_per_text
 
     def forward(self, image_features, text_features, logit_scale, output_dict=False):
@@ -127,7 +136,6 @@ class ClipLoss(nn.Module):
             F.cross_entropy(logits_per_image, labels) +
             F.cross_entropy(logits_per_text, labels)
         ) / 2
-
         return {"contrastive_loss": total_loss} if output_dict else total_loss
 
 

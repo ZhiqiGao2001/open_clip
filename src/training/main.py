@@ -505,4 +505,12 @@ def copy_codebase(args):
 
 
 if __name__ == "__main__":
+    # def trace_imports(frame, event, arg):
+    #     if event == "call":
+    #         code = frame.f_code
+    #         if code.co_filename.endswith("model.py"):
+    #             print(f"my_script.py is being executed from {frame.f_globals['__file__']}")
+    #
+    # sys.settrace(trace_imports)
+
     main(sys.argv[1:])
