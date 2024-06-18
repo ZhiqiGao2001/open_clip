@@ -5,7 +5,6 @@ from openai import OpenAI
 import base64
 import requests
 
-api_key = "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"
 
 
 # https://platform.openai.com/docs/guides/vision
