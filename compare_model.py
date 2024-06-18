@@ -6,7 +6,6 @@ import base64
 import requests
 
 
-
 # https://platform.openai.com/docs/guides/vision
 def get_alternative_caption(image_path_, content_):
     def encode_image(image_path_):
