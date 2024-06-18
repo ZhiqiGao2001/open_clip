@@ -3,7 +3,9 @@ wandb/
 models/
 features/
 results/
-
+src/logs
+src/wandb
+image_test/
 tests/data/
 *.pt
 
