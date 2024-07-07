@@ -6,6 +6,7 @@ results/
 src/logs
 src/wandb
 image_test/
+image_train/
 tests/data/
 *.pt
 *.csv
