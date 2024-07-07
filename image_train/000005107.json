@@ -1,0 +1,13 @@
+{
+    "caption": "A portrait of <PERSON> taken in 1932, about the time The Good Earth was published.",
+    "url": "https://www.tsemrinpoche.com/wp-content/uploads/2019/09/PearlGal02.jpg",
+    "key": "000005107",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 600,
+    "original_height": 798,
+    "exif": "{\"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Photo Editor Movavi\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"140\", \"Thumbnail JPEGInterchangeFormatLength\": \"19986\"}",
+    "sha256": "510967657a3d9b92769bb1bfb88df7ae4b6e14de8765c98cef836fe1dcb91824"
+}

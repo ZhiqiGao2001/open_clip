@@ -1,0 +1,13 @@
+{
+    "caption": "The <PERSON> screenshot-1",
+    "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/ae/26/dcae263a-b5a6-9f31-ea0a-2ccf6f161481/pr_source.png/750x750bb.jpeg",
+    "key": "000004639",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 422,
+    "original_height": 750,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"422\", \"EXIF ExifImageLength\": \"750\"}",
+    "sha256": "f3a308c94d47a3c12de7df963722ab0f816ad7b25bb7b678f584172b6996d822"
+}

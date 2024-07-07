@@ -1,0 +1,13 @@
+{
+    "caption": "A person writing in a notebook",
+    "url": "https://cdn-images-1.medium.com/max/2000/1*Y1zZK3fLQN54kseJEnowUw.jpeg",
+    "key": "000006224",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 2000,
+    "original_height": 1333,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"2000\", \"EXIF ExifImageLength\": \"1333\"}",
+    "sha256": "3f07878bdccc1300d34abebd179b4acb662988233d81e3f935292cf4ed0982ef"
+}

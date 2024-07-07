@@ -1,0 +1,13 @@
+{
+    "caption": "Counter loop pattern Iterating over an implicit sequence of numbers",
+    "url": "https://slideplayer.com/slide/4252136/14/images/11/Counter+loop+pattern+Iterating+over+an+implicit+sequence+of+numbers.jpg",
+    "key": "000001820",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 960,
+    "original_height": 720,
+    "exif": "{\"Image DocumentName\": \"Counter loop pattern Iterating over an implicit sequence of numbers\", \"Image ImageDescription\": \"Introduction to Computing Using Python. Iterating over an implicit sequence of numbers. >>> n = 10. >>> for i in range(n): print(i, end= ) >>> for i in range(7, 100, 17): print(i, end= ) This example illustrates the most important application of the counter loop pattern. >>> for i in range(len( world )): print(i, end= )\", \"Image XResolution\": \"37\", \"Image YResolution\": \"37\", \"Image ResolutionUnit\": \"Pixels/Centimeter\", \"Image Software\": \"SlidePlayer\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "4971c4741be29e7ac9231b7a8b422d4e2c956d604ac73b5245c2d3879918f46e"
+}

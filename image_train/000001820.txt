@@ -1,0 +1,1 @@
+Counter loop pattern Iterating over an implicit sequence of numbers

@@ -1,0 +1,1 @@
+ARD Schedule Change Current: allows for a larger number of observation days which can overlap from one period to another CMS wanted to remove the potential for overlap

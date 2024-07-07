@@ -1,0 +1,1 @@
+Buses An internal bus are the electronic lines inside the CPU

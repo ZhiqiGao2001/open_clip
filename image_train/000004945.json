@@ -1,0 +1,13 @@
+{
+    "caption": "Recording studio featuring racks of equipment and mixing boards at the University of Miami",
+    "url": "https://facilities.frost.miami.edu/_assets/images/soundstages/austin-weeks/austin-banner-1-1240x550.jpg",
+    "key": "000004945",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1240,
+    "original_height": 550,
+    "exif": "{\"Image ImageWidth\": \"2048\", \"Image ImageLength\": \"1365\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Windows)\", \"Image DateTime\": \"2017:06:13 19:02:11\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"5663\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1240\", \"EXIF ExifImageLength\": \"550\"}",
+    "sha256": "d1dcc48e1038b3db0b193f99f21396429eb697adfbfb36596a4d9a65271076ba"
+}

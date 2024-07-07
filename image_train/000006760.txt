@@ -1,0 +1,1 @@
+<PERSON> is doing a project on the effects of music on the growth of tomatoes. He has two plants, A and B, that he grows in a window and give the same amount of water. Plant A hears classical music using headphones attached to the soil. Throughout the growth period, <PERSON> counts the number of tomatoes produced by each plant.

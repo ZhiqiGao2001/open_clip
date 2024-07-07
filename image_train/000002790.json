@@ -1,0 +1,13 @@
+{
+    "caption": "Biodiversity Hotspots of the World",
+    "url": "https://www.themightyearth.com/wp-content/uploads/2019/10/35_Biodiversity_Hotspots_Map-new.jpg",
+    "key": "000002790",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 492,
+    "exif": "{\"Image ImageWidth\": \"2755\", \"Image ImageLength\": \"1584\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Windows)\", \"Image DateTime\": \"2019:10:03 12:31:31\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"6023\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"492\"}",
+    "sha256": "5a50948a47f26d6e654681b6896a0e716037d06ce2ad1a9e1f0d15c3823dfdbc"
+}

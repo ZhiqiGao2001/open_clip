@@ -1,0 +1,1 @@
+Figure 6: The result of applying adaptive threshold -- the gap between the bolt and the number 0 is clearly visible now.

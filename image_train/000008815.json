@@ -1,0 +1,13 @@
+{
+    "caption": "A table ready for dining at <PERSON>, which once hosted President <PERSON> for a seafood dinner",
+    "url": "http://menustories.com/images/photos/25lusk-41.jpg",
+    "key": "000008815",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1200,
+    "original_height": 741,
+    "exif": "{\"Image ImageWidth\": \"5529\", \"Image ImageLength\": \"3416\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D750\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Macintosh)\", \"Image DateTime\": \"2017:11:24 13:26:54\", \"Image ExifOffset\": \"328\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"860\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"974\", \"Thumbnail JPEGInterchangeFormatLength\": \"6450\", \"EXIF ExposureTime\": \"1/100\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"1250\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:09:02 13:14:45\", \"EXIF DateTimeDigitized\": \"2017:09:02 13:14:45\", \"EXIF ShutterSpeedValue\": \"415241/62500\", \"EXIF ApertureValue\": \"361471/100000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTimeOriginal\": \"44\", \"EXIF SubSecTimeDigitized\": \"44\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1200\", \"EXIF ExifImageLength\": \"741\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"50\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "42f10a2930eab6f46e067e2cd6986356177ee0d5ad8260981e5560795127b7cf"
+}

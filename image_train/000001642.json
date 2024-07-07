@@ -1,0 +1,13 @@
+{
+    "caption": "The <PERSON> | <PERSON> | oil painting",
+    "url": "https://cdn2.oceansbridge.com/2017/09/08185940/The-Artists-Mother-Philip-Alexius-de-Laszlo-oil-painting.jpg",
+    "key": "000001642",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 500,
+    "original_height": 653,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"500\", \"EXIF ExifImageLength\": \"653\"}",
+    "sha256": "25a08688cb0d1002ac9227dde2428227aa89da0527a923976e48d64322a9f606"
+}

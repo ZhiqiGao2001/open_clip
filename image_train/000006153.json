@@ -1,0 +1,13 @@
+{
+    "caption": "A nice looking sunset north of Denver as the sun disappears behind the Rocky Mountains. (\u00a9 Tony's Takes)",
+    "url": "https://live.staticflickr.com/1921/44942941814_e281a33882_o.jpg",
+    "key": "000006153",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 2048,
+    "original_height": 1150,
+    "exif": "{\"Image Make\": \"DJI\", \"Image Model\": \"FC220\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 8.0 (Windows)\", \"Image DateTime\": \"2018:10:30 16:33:57\", \"Image ExifOffset\": \"200\", \"EXIF ExposureTime\": \"1/2200\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"58655\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:10:25 17:45:04\", \"EXIF DateTimeDigitized\": \"2018:10:25 17:45:04\", \"EXIF ShutterSpeedValue\": \"1387911/125000\", \"EXIF ApertureValue\": \"2275007/1000000\", \"EXIF ExposureBiasValue\": \"-2\", \"EXIF MaxApertureValue\": \"227/100\", \"EXIF SubjectDistance\": \"0\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"47/10\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"26\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"2014031100\", \"EXIF LensSpecification\": \"[263/10, 263/10, 11/5, 11/5]\", \"EXIF LensModel\": \"26.3 mm f/2.2\"}",
+    "sha256": "3421b6d6ace976b91967b2766d85cae8f38eac29a41be2d3fc5fce8c9b0252ab"
+}

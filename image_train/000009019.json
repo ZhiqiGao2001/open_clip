@@ -1,0 +1,13 @@
+{
+    "caption": "Rent this 4 bed apartment on 39 <PERSON>'s Drive in Greenhills, Dublin 12",
+    "url": "https://img.rentberry.com/QVD7l3KUukHHkEI1qZ4fK2W0DiJ1Ynu7o7F2eW1HTpQ/auto/440/440/sm/1/plain/media/apartments/41809ad4-cbdb-11e9-a4ef-de3904cccdfa.jpeg",
+    "key": "000009019",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 440,
+    "original_height": 440,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"440\", \"EXIF ExifImageLength\": \"440\"}",
+    "sha256": "fa07e1cf2ac64bbfcb92da4f0d7c8a70434efbf432be0d911fbbf8951bdf0909"
+}

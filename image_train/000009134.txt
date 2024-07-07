@@ -1,0 +1,1 @@
+Face ID on the iPhone will recognize that we are wearing a mask and will immediately display the PIN entry screen

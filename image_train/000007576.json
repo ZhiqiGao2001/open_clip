@@ -1,0 +1,13 @@
+{
+    "caption": "The new book, Human: Instructions for Use",
+    "url": "https://i2.wp.com/narapetrovic.com/wp-content/uploads/2019/11/DSC04814-2-1.jpg?fit=800%2C637&ssl=1",
+    "key": "000007576",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 637,
+    "exif": "{\"Image Make\": \"SONY\", \"Image Model\": \"ILCE-6000\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Lightroom 2.3 (Macintosh)\", \"Image DateTime\": \"2019:12:04 12:18:08\", \"Image ExifOffset\": \"206\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"250\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"250\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:11:18 08:15:59\", \"EXIF DateTimeDigitized\": \"2019:11:18 08:15:59\", \"EXIF ShutterSpeedValue\": \"24609/3361\", \"EXIF ApertureValue\": \"274633/59139\", \"EXIF BrightnessValue\": \"7207/1280\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"297/64\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"33\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"637\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"49\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensSpecification\": \"[16, 50, 7/2, 28/5]\", \"EXIF LensModel\": \"E PZ 16-50mm F3.5-5.6 OSS\"}",
+    "sha256": "b0f87f33b49e3bfc27a172a04760ebdd8764a36940b6ac29b89c9913df090c12"
+}

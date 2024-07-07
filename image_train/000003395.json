@@ -1,0 +1,13 @@
+{
+    "caption": "Charcoal image of a herd of lambs",
+    "url": "http://sandrabrewster.com/wp-content/uploads/2012/10/06.Lambs_.jpg",
+    "key": "000003395",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 900,
+    "original_height": 670,
+    "exif": "{\"Image Make\": \"Panasonic\", \"Image Model\": \"DMC-LX2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Macintosh\", \"Image DateTime\": \"2012:10:14 13:07:59\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image PrintIM\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image ExifOffset\": \"440\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1022\", \"Thumbnail JPEGInterchangeFormatLength\": \"7083\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:03:10 17:01:08\", \"EXIF DateTimeDigitized\": \"2008:03:10 17:01:08\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"4\", \"EXIF ExposureBiasValue\": \"33/50\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"63/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"900\", \"EXIF ExifImageLength\": \"670\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"32\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\"}",
+    "sha256": "c3c2cbc60697bdc1b164ece31bc24b81575768739e68aba6232a66acfd1b5248"
+}

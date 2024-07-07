@@ -1,0 +1,13 @@
+{
+    "caption": "The Trifid Nebula is a giant star-forming cloud of gas and dust located 5,400 light-years away in the constellation Sagittarius, seen here by NASA's Spitzer Space Telescope.",
+    "url": "https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA07225_hires.jpg",
+    "key": "000005721",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 2500,
+    "original_height": 1624,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ExifImageWidth\": \"2500\", \"EXIF ExifImageLength\": \"1624\"}",
+    "sha256": "912e02d0e62ae96d54703aaf9315a03d8968e5b69e866ab013794571731cb1ba"
+}

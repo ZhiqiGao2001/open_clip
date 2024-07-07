@@ -1,0 +1,1 @@
+Design: Example #1 Given the following state diagram, design the sequential circuit using <PERSON> flip-flops.

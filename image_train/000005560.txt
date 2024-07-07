@@ -1,0 +1,1 @@
+Telnet Remote login into computer networks and compute on the remote computer Connection can be established using SLIP, PPP or dedicated lines Usually available in the universities and Internet Service Providers Weakness --Only console applications can be run.

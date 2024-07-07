@@ -1,0 +1,1 @@
+In a game with Guise on the team, allow a single player to take 25 actions outside their turn. Valid actions are playing a card, using a power, or drawing a card. The actions must be caused by hero cards, powers, or incapacitated abilities.

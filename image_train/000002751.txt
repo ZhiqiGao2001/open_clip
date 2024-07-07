@@ -1,0 +1,1 @@
+A tutorial explaining how to create an electric shock - lighting effect which emits light onto objects and is completely animate-able. Blender 3d, Blender Models, Computer Animation, Create Animation, Game Design, 3d Design, 3d Computer Graphics, Blender Tutorial, 3d Software

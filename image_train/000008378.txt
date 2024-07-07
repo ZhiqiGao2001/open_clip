@@ -1,0 +1,1 @@
+A triangle has _____ sides, _____vertices, and _____ angles.

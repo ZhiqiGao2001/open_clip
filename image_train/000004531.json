@@ -1,0 +1,13 @@
+{
+    "caption": "This is a photo of a cloud-like chandelier hanging in a living room, made from acrylic boxes, using an LED bulb",
+    "url": "https://aaronscottdesign.com/new/wp-content/uploads/2016/03/cloudlamp-acrylic-boxes1.jpg",
+    "key": "000004531",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 3000,
+    "original_height": 2249,
+    "exif": "{\"Image ImageWidth\": \"723\", \"Image ImageLength\": \"542\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot S50\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Macintosh\", \"Image DateTime\": \"2016:03:02 16:34:51\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"292\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1202\", \"Thumbnail JPEGInterchangeFormatLength\": \"2796\", \"EXIF ExposureTime\": \"1/30\", \"EXIF FNumber\": \"14/5\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:08:19 16:57:22\", \"EXIF DateTimeDigitized\": \"2010:08:19 16:57:22\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"157/32\", \"EXIF ApertureValue\": \"95/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"227/32\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3000\", \"EXIF ExifImageLength\": \"2249\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"1600\", \"Interoperability RelatedImageLength\": \"1200\", \"EXIF InteroperabilityOffset\": \"1052\", \"EXIF FocalPlaneXResolution\": \"1600000/283\", \"EXIF FocalPlaneYResolution\": \"300000/53\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "6245116fb8eb1d3c708f0c0d086c1c32e25ecaee2b132742eed023da66563de1"
+}

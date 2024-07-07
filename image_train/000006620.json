@@ -1,0 +1,13 @@
+{
+    "caption": "Third view of Homely house listing, 27 The Boulevarde, Kooringal NSW 2650",
+    "url": "https://img-2.homely.com.au/S3/l-Rex-6495863-3.jpg?enlarge=true&format=jpeg&height=426&quality=60&resizeType=cover&width=640",
+    "key": "000006620",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 640,
+    "original_height": 426,
+    "exif": "{\"Image Copyright\": \"FITZPATRICKS REAL ESTATE\"}",
+    "sha256": "4ccfc520218a433a9a4499f609bb64f0afb58cfc2b9c2a28d8b6ee4c66b3810c"
+}

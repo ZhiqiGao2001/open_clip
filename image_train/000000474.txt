@@ -1,0 +1,1 @@
+Product of primes Writing a number as a product of its prime factors involves writing the number as a series of prime numbers multiplied together.

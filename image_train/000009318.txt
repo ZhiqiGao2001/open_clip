@@ -1,0 +1,1 @@
+Carrying Capacity The maximum number of people a region can reasonably sustain.

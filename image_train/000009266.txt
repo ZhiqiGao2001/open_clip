@@ -1,0 +1,1 @@
+For example, this restaurant website has a special menu bar that appears only on mobile with shortcuts to call the place, view directions on a map or check opening hours.

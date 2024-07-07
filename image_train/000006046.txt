@@ -1,0 +1,1 @@
+Cameras scanning the road and pedestrian detection.

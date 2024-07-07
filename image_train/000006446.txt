@@ -1,0 +1,1 @@
+An example on file IO The program reads each line of a file and displays the line. The file consists of several rows.

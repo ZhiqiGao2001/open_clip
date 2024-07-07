@@ -1,0 +1,1 @@
+Pseudo credit card numbers Temporary credit card numbers that are valid for 1 transaction only.

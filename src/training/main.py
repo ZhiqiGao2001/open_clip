@@ -28,7 +28,7 @@ try:
 except ImportError:
     hvd = None
 
-from open_clip import create_model_and_transforms, trace_model, get_tokenizer, create_loss
+from open_clip import create_model_and_transforms, trace_model, get_tokenizer, create_loss, CLIPWrapper
 from training.data import get_data
 from training.distributed import is_master, init_distributed_device, broadcast_object
 from training.logger import setup_logging
@@ -239,6 +239,9 @@ def main(args):
         output_dict=True,
         **model_kwargs,
     )
+    if args.linear_dim is not None:
+        model = CLIPWrapper(model, args.linear_dim, True)
+
     if args.distill:
         # FIXME: currently assumes the model you're distilling from has the same tokenizer & transforms.
         dist_model, _, _ = create_model_and_transforms(
@@ -429,6 +432,12 @@ def main(args):
 
     loss = create_loss(args)
 
+    ## copy the optimizer and the scheduler for the second part of training
+    if args.linear_dim is not None:
+        optimizer_2 = optimizer
+        scheduler_2 = scheduler
+
+    model.freeze_weights()
     for epoch in range(start_epoch, args.epochs):
         if is_master(args):
             logging.info(f'Start epoch {epoch}')
@@ -468,6 +477,90 @@ def main(args):
                 latest_save_path = os.path.join(args.checkpoint_path, LATEST_CHECKPOINT_NAME)
                 torch.save(checkpoint_dict, tmp_save_path)
                 os.replace(tmp_save_path, latest_save_path)
+
+    if args.wandb and is_master(args):
+        wandb.finish()
+
+    # run a final sync.
+    if remote_sync_process is not None:
+        logging.info('Final remote sync.')
+        remote_sync_process.terminate()
+        result = remote_sync(
+            os.path.join(args.logs, args.name),
+            os.path.join(args.remote_sync, args.name),
+            args.remote_sync_protocol
+        )
+        if result:
+            logging.info('Final remote sync successful.')
+        else:
+            logging.info('Final remote sync failed.')
+
+    ###################################################################################################################
+    if args.linear_dim is not None:
+        if args.wandb and is_master(args):
+            assert wandb is not None, 'Please install wandb.'
+            logging.debug('Starting wandb.')
+            args.train_sz = data["train"].dataloader.num_samples
+            if args.val_data is not None:
+                args.val_sz = data["val"].dataloader.num_samples
+            # you will have to configure this for your project!
+            wandb.init(
+                project=args.wandb_project_name,
+                name=args.name + '_2',
+                id=args.name + '_2',
+                notes=args.wandb_notes,
+                tags=[],
+                resume='auto' if args.resume == "latest" else None,
+                config=vars(args),
+            )
+            if args.debug:
+                wandb.watch(model, log='all')
+            wandb.save(params_file)
+            logging.debug('Finished loading wandb.')
+
+        model.unfreeze_weights()
+        print('Unfreezing CLIP weights for the second part of training.')
+        for epoch in range(0, args.epochs):
+            if is_master(args):
+                logging.info(f'Start epoch {epoch} in 2nd part of training')
+
+            train_one_epoch(model, data, loss, epoch, optimizer_2, scaler, scheduler_2, dist_model, args,
+                            tb_writer=writer)
+            completed_epoch = epoch + 1
+
+            if any(v in data for v in ('val', 'imagenet-val', 'imagenet-v2')):
+                evaluate(model, data, completed_epoch, args, tb_writer=writer, tokenizer=tokenizer)
+
+            # Saving checkpoints.
+            if args.save_logs:
+                checkpoint_dict = {
+                    "epoch": completed_epoch,
+                    "name": args.name,
+                    "state_dict": original_model.state_dict(),
+                    "optimizer": optimizer.state_dict(),
+                }
+                if scaler is not None:
+                    checkpoint_dict["scaler"] = scaler.state_dict()
+
+                if completed_epoch == args.epochs or (
+                        args.save_frequency > 0 and (completed_epoch % args.save_frequency) == 0
+                ):
+                    torch.save(
+                        checkpoint_dict,
+                        os.path.join(args.checkpoint_path, f"epoch_{completed_epoch}.pt"),
+                    )
+                if args.delete_previous_checkpoint:
+                    previous_checkpoint = os.path.join(args.checkpoint_path, f"epoch_{completed_epoch - 1}.pt")
+                    if os.path.exists(previous_checkpoint):
+                        os.remove(previous_checkpoint)
+
+                if args.save_most_recent:
+                    # try not to corrupt the latest checkpoint if save fails
+                    tmp_save_path = os.path.join(args.checkpoint_path, "tmp.pt")
+                    latest_save_path = os.path.join(args.checkpoint_path, LATEST_CHECKPOINT_NAME)
+                    torch.save(checkpoint_dict, tmp_save_path)
+                    os.replace(tmp_save_path, latest_save_path)
+    ###################################################################################################################
 
     if args.wandb and is_master(args):
         wandb.finish()

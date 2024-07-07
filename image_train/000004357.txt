@@ -1,0 +1,1 @@
+At solar noon, by definition, the sun is exactly on the meridian, which contains the north-south line, and consequently, the solar azimuth is 0°.

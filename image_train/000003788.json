@@ -1,0 +1,13 @@
+{
+    "caption": "<PERSON> guests on the patio bar, Toronto",
+    "url": "https://earls-public.storage.googleapis.com/content/news_images/images/000/000/180/original/18_Earls_0266_color.jpg",
+    "key": "000003788",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1200,
+    "original_height": 900,
+    "exif": "{\"Image Make\": \"Hasselblad\", \"Image Model\": \"Hasselblad H4D-50\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 3.6 (Macintosh)\", \"Image DateTime\": \"2012:09:17 12:02:04\", \"Image Artist\": \"Andrew Easson\", \"Image Copyright\": \"CM&P\", \"Image ExifOffset\": \"262\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"754\", \"Thumbnail JPEGInterchangeFormatLength\": \"14774\", \"EXIF ExposureTime\": \"1/180\", \"EXIF FNumber\": \"17/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2012:08:22 21:36:11\", \"EXIF DateTimeDigitized\": \"2012:08:22 21:36:11\", \"EXIF ShutterSpeedValue\": \"7491853/1000000\", \"EXIF ApertureValue\": \"3531069/1000000\", \"EXIF MaxApertureValue\": \"126797/40000\", \"EXIF SubjectDistance\": \"154/125\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"80\", \"EXIF FocalPlaneXResolution\": \"166667/100\", \"EXIF FocalPlaneYResolution\": \"166667/100\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF FocalLengthIn35mmFilm\": \"56\", \"EXIF ImageUniqueID\": \"00000000000000000281926800003C45\", \"EXIF LensModel\": \"HC 80\"}",
+    "sha256": "65d62a8c06927298390be1d2576d65ce7dbecc7defb70becf31710b8ff3c515c"
+}

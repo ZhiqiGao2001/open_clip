@@ -1,0 +1,13 @@
+{
+    "caption": "Kluane Lake with mountains in the background.",
+    "url": "https://www.wlu.ca/images/spotlights/2018/nov/yukon-kluane-lake.jpg",
+    "key": "000004054",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 890,
+    "original_height": 430,
+    "exif": "{\"Image Make\": \"samsung\", \"Image Model\": \"SM-G903W\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"G903WVLU1BQA1\", \"Image DateTime\": \"2018-11-16T16:25:33-05:00\", \"Image ExifOffset\": \"186\", \"EXIF ExposureTime\": \"1/1500\", \"EXIF FNumber\": \"19/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"40\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:09:04 12:48:28\", \"EXIF DateTimeDigitized\": \"2018:09:04 12:48:28\", \"EXIF ShutterSpeedValue\": \"10550747/1000000\", \"EXIF ApertureValue\": \"1851999/1000000\", \"EXIF BrightnessValue\": \"216/25\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"37/20\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"37/10\", \"EXIF ExifImageWidth\": \"890\", \"EXIF ExifImageLength\": \"430\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"31\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF ImageUniqueID\": \"004EE7BEC31FA6030000000000000000\"}",
+    "sha256": "348479ea4c677086a78f91a6dd06a8a1bf4f9684329ee3330ae6d4026f39cb4d"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "A piece of cake on a table",
+    "url": "https://sligo-photographer.com/wp-content/uploads/Sligo-Wedding-Photographer-Galway-Bay-Hotel-38-.jpg",
+    "key": "000003440",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1050,
+    "original_height": 700,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 7.3 (Macintosh)\", \"Image DateTime\": \"2018:10:17 01:38:06\", \"Image ExifOffset\": \"224\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"848\", \"Thumbnail JPEGInterchangeFormatLength\": \"12407\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"800\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"800\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:09:01 17:30:49\", \"EXIF DateTimeDigitized\": \"2018:09:01 17:30:49\", \"EXIF ShutterSpeedValue\": \"1165241/125000\", \"EXIF ApertureValue\": \"2\", \"EXIF ExposureBiasValue\": \"-1/3\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"35\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"1600\", \"EXIF FocalPlaneYResolution\": \"1600\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"053024011092\", \"EXIF LensSpecification\": \"[35, 35, 0/0, 0/0]\", \"EXIF LensModel\": \"35mm\", \"EXIF LensSerialNumber\": \"0000000000\"}",
+    "sha256": "8abf63e796c0da713742a15a6095a134221b130fa290fb8c085a19a753df0a3f"
+}

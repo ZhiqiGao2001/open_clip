@@ -1,0 +1,13 @@
+{
+    "caption": "This is a pink unicorn",
+    "url": "https://static.gosquared.com/images/liquidicity/17_01_23_unicornhunt_02@2x.jpg",
+    "key": "000004315",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1400,
+    "original_height": 600,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ExifImageWidth\": \"1400\", \"EXIF ExifImageLength\": \"600\"}",
+    "sha256": "a4aa90d3e20ac1bd69dd156798a93a8562ac35aeeff750d85c73a42734fc5308"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "The flowers are so big that the wind sometimes plays havoc with them.",
+    "url": "https://pics.davesgarden.com/pics/2008/12/19/KSBaptisia/53d206.jpg",
+    "key": "000004277",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XT\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"72\", \"Image DateTime\": \"2008:05:28 19:32:17\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"72\", \"Thumbnail JPEGInterchangeFormat\": \"9716\", \"Thumbnail JPEGInterchangeFormatLength\": \"8611\", \"EXIF ExposureTime\": \"1/50\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Landscape Mode\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:05:28 19:32:17\", \"EXIF DateTimeDigitized\": \"2008:05:28 19:32:17\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"92469/16384\", \"EXIF ApertureValue\": \"162885/32768\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"35\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3456\", \"EXIF ExifImageLength\": \"2304\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"9230\", \"EXIF FocalPlaneXResolution\": \"1728000/437\", \"EXIF FocalPlaneYResolution\": \"384000/97\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "69cf332eae7479abc90f02992a72fcdc57a435e4da09e0a4d5f7f25aeaf433d6"
+}

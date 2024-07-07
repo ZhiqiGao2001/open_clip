@@ -1,0 +1,1 @@
+Example 3 drawing a line through the points on the graph of a straight line graph

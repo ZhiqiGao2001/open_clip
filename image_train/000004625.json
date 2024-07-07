@@ -1,0 +1,13 @@
+{
+    "caption": "A vehicle damaged during a police operation in <PERSON>. Picture: <PERSON>",
+    "url": "https://cdn.newsapi.com.au/image/v1/8e320f6413cf9e5ce19d63e346b624c9?width=1024",
+    "key": "000004625",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 576,
+    "exif": "{}",
+    "sha256": "7042009a1f43856789edf7d188aa2ede0672e04facb5e40414f76d9d2652b46f"
+}

@@ -1,0 +1,13 @@
+{
+    "caption": "A text conversation between the pair.",
+    "url": "https://cdn.newsapi.com.au/image/v1/9d9d7d259b581d433a8d6a708db37aea?width=650",
+    "key": "000008400",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 650,
+    "original_height": 1000,
+    "exif": "{}",
+    "sha256": "42df17e48f3c11eb5f6786f47784f9e9058cfa88bc2fc093d40e566b4d4784c7"
+}

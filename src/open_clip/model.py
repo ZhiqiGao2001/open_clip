@@ -315,6 +315,73 @@ class CLIP(nn.Module):
         return image_features, text_features, self.logit_scale.exp()
 
 
+class CLIPWrapper(nn.Module):
+    def __init__(self, clip_model, projection_dim, freeze_clip_model=False):
+        super().__init__()
+        self.clip_model = clip_model
+        self.freeze_clip_model = freeze_clip_model
+        self.projection_dim = projection_dim
+
+        self.image_projection = nn.Linear(self.clip_model.visual.output_dim, projection_dim)
+        self.text_projection = nn.Linear(self.clip_model.text_projection.size(1), projection_dim)
+
+        self.logit_scale = self.clip_model.logit_scale
+        self.logit_bias = self.clip_model.logit_bias
+
+        if self.freeze_clip_model:
+            self.freeze_weights()
+
+        self.to_cuda()
+
+    def to_cuda(self):
+        self.clip_model.cuda()
+        self.image_projection.cuda()
+        self.text_projection.cuda()
+
+    def freeze_weights(self):
+        for param in self.clip_model.parameters():
+            param.requires_grad = False
+
+    def unfreeze_weights(self):
+        for param in self.clip_model.parameters():
+            param.requires_grad = True
+
+    def encode_image(self, image, normalize: bool = False):
+        image = image.cuda()
+        features = self.clip_model.encode_image(image, normalize=False)
+        projected_features = self.image_projection(features)
+        return nn.functional.normalize(projected_features, dim=-1) if normalize else projected_features
+
+    def encode_text(self, text, normalize: bool = False):
+        text = text.cuda()
+        features = self.clip_model.encode_text(text, normalize=False)
+        projected_features = self.text_projection(features)
+        return nn.functional.normalize(projected_features, dim=-1) if normalize else projected_features
+
+    def forward(self, image: Optional[torch.Tensor] = None, text: Optional[torch.Tensor] = None):
+        if image is not None:
+            image = image.cuda()
+        if text is not None:
+            text = text.cuda()
+
+        image_features = self.encode_image(image, normalize=True) if image is not None else None
+        text_features = self.encode_text(text, normalize=True) if text is not None else None
+
+        if self.clip_model.output_dict:
+            out_dict = {
+                "image_features": image_features,
+                "text_features": text_features,
+                "logit_scale": self.clip_model.logit_scale.exp()
+            }
+            if self.clip_model.logit_bias is not None:
+                out_dict['logit_bias'] = self.clip_model.logit_bias
+            return out_dict
+
+        if self.clip_model.logit_bias is not None:
+            return image_features, text_features, self.clip_model.logit_scale.exp(), self.clip_model.logit_bias
+        return image_features, text_features, self.clip_model.logit_scale.exp()
+
+
 class CustomTextCLIP(nn.Module):
     output_dict: torch.jit.Final[bool]
 

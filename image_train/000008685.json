@@ -1,0 +1,13 @@
+{
+    "caption": "Adjusting styles with the <PERSON>",
+    "url": "https://slideplayer.com/slide/12881943/78/images/10/Adjusting+styles+with+the+DOM.jpg",
+    "key": "000008685",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 576,
+    "exif": "{\"Image DocumentName\": \"Adjusting styles with the DOM\", \"Image ImageDescription\": \"objectName.style.propertyName = value ; JS. <button onclick= colorIt(); >Click me!</button> <span id= fancytext >Don t forget your homework!</span> HTML. function colorIt() { var text = document.getElementById( fancytext ); text.style.color = #ff5500 ; text.style.fontSize = 40pt ; } JS. output. Property. Description. style. lets you set any CSS style property for an element. same properties as in CSS, but with camelCasedNames, not names-with-underscores. examples: backgroundColor, borderLeftWidth, fontFamily.\", \"Image XResolution\": \"200\", \"Image YResolution\": \"200\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"SlidePlayer\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "8cd99bc2efce203e4d246d1efca37b125aa90a587aea9da3d12621756503eb7b"
+}

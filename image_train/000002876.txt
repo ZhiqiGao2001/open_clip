@@ -1,0 +1,1 @@
+Router A router is a networking device that forwards data packets between computer networks.

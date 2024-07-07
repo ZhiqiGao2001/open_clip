@@ -1,0 +1,1 @@
+Definition A rectangle is a quadrilateral with four right angles.

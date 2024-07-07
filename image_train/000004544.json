@@ -1,0 +1,13 @@
+{
+    "caption": "Feel fancy at The Betsy Hotel",
+    "url": "https://s3-us-east-2.amazonaws.com/orbitz-media/blog/wp-content/uploads/2015/08/16131907/orbitz_the-betsy-hotel-miami-beach.jpg",
+    "key": "000004544",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 534,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"534\"}",
+    "sha256": "7a7c07b684348579c59e5b24a9c53e8ce873d2160ed997a874c126410f15aa27"
+}

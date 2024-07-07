@@ -1,0 +1,13 @@
+{
+    "caption": "The San Remo building is a local heritage item and was purchased in the 1930s. Photo: Supplied",
+    "url": "https://static.domain.com.au/cre/production/2018/11/151-Bondi-Road-Bondi.jpg",
+    "key": "000000257",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 2961,
+    "original_height": 1974,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark IV\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 7.3.1 (Macintosh)\", \"Image DateTime\": \"2018:07:25 13:27:24\", \"Image Artist\": \"Mark Merton\", \"Image Copyright\": \"2018 Mark Merton Photography\", \"Image ExifOffset\": \"316\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"S\", \"GPS GPSLatitude\": \"[33, 267631/5000, 0]\", \"GPS GPSLongitudeRef\": \"E\", \"GPS GPSLongitude\": \"[151, 161967/10000, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"3999/10\", \"GPS GPSTimeStamp\": \"[2, 37, 16913/1000]\", \"GPS GPSSatellites\": \"10\", \"GPS GPSStatus\": \"A\", \"GPS GPSMeasureMode\": \"3\", \"GPS GPSDOP\": \"21/10\", \"GPS GPSMapDatum\": \"WGS-84\", \"GPS GPSDate\": \"2018:06:23\", \"Image GPSInfo\": \"884\", \"EXIF ExposureTime\": \"1/1250\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2018:06:23 12:37:02\", \"EXIF DateTimeDigitized\": \"2018:06:23 12:37:02\", \"EXIF ShutterSpeedValue\": \"321491/31250\", \"EXIF ApertureValue\": \"2485427/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"300\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF FocalPlaneXResolution\": \"61166933/32768\", \"EXIF FocalPlaneYResolution\": \"61166933/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"181056002259\", \"EXIF LensSpecification\": \"[28, 300, 0/0, 0/0]\", \"EXIF LensModel\": \"EF28-300mm f/3.5-5.6L IS USM\", \"EXIF LensSerialNumber\": \"000020da41\"}",
+    "sha256": "ffda309610c4d1a858989fd42f95554da2dec696b219f9d421374010abc614c2"
+}

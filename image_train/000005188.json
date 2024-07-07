@@ -1,0 +1,13 @@
+{
+    "caption": "Second floor bedroom the Mint in Rye",
+    "url": "https://static.wixstatic.com/media/745984_f305e426b35642f9850ec5c697108729~mv2_d_2318_3000_s_2.jpg",
+    "key": "000005188",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 2318,
+    "original_height": 3000,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Capture One 10 Macintosh\", \"Image ExifOffset\": \"184\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"704\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail JPEGInterchangeFormat\": \"764\", \"Thumbnail JPEGInterchangeFormatLength\": \"2454\", \"EXIF ExposureTime\": \"16/5\", \"EXIF FNumber\": \"11\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:03:26 12:41:17\", \"EXIF DateTimeDigitized\": \"2017:03:26 12:41:17\", \"EXIF ShutterSpeedValue\": \"-209759/125000\", \"EXIF ApertureValue\": \"6918863/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF SubjectDistance\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTimeOriginal\": \"21\", \"EXIF SubSecTimeDigitized\": \"21\", \"EXIF ExifImageWidth\": \"2318\", \"EXIF ExifImageLength\": \"3000\", \"EXIF FocalPlaneXResolution\": \"15766371/4096\", \"EXIF FocalPlaneYResolution\": \"16007749/4096\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"2731507951\", \"EXIF LensModel\": \"Canon EF 24-105mm f/4L IS USM\"}",
+    "sha256": "ccebde9bae06d14617071ec7a4f41ff3cc11a0fbb0f20b49fa2fbdfa80f0c4fd"
+}

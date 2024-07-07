@@ -1,0 +1,13 @@
+{
+    "caption": "Example #7 Modify the following XML document so that it is also a valid RDF document: < xml version= 1.0 >",
+    "url": "https://slideplayer.com/slide/12713227/76/images/60/Example+%237+Modify+the+following+XML+document+so+that+it+is+also+a+valid+RDF+document%3A+%3C+xml+version%3D+1.0+%3E.jpg",
+    "key": "000003429",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image DocumentName\": \"Example #7 Modify the following XML document so that it is also a valid RDF document: < xml version= 1.0 >\", \"Image ImageDescription\": \"<Meeting id= XML-Design-Patterns xmlns=  > <attendees> <name>John Smith</name> <name>Sally Jones</name> </attendees> </Meeting> DesignMeeting.xml. < xml version= 1.0 > <Meeting rdf:ID= XML-Design-Pattern xmlns:rdf=  xmlns=  > <attendees> <rdf:Bag> <name>John Smith</name> <name>Sally Jones</name> </rdf:Bag> </attendees> </Meeting> rdf:Bag makes it clear. that this is an unordered. collection of names. DesignMeeting.rdf.\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"SlidePlayer\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "ccb73249c06588018d8f3fffd4702950067018252e072c55a0063f7ad3855016"
+}

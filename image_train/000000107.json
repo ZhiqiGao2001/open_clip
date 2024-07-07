@@ -1,0 +1,13 @@
+{
+    "caption": "Lobby at The Bowery Hotel",
+    "url": "https://www.oyster.com/wp-content/uploads/sites/35/2019/05/5975-2013-02-lobby-the-bowery-hotel-v259272-1152.jpg",
+    "key": "000000107",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 700,
+    "original_height": 465,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D700\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Ver.1.00\", \"Image DateTime\": \"2013:02:06 15:40:14\", \"Image Artist\": \"Picasa\", \"Image ExifOffset\": \"204\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"924\", \"Thumbnail JPEGInterchangeFormatLength\": \"16078\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"1000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2009:06:09 15:46:00\", \"EXIF DateTimeDigitized\": \"2009:06:09 15:46:00\", \"EXIF ShutterSpeedValue\": \"540241/125000\", \"EXIF ApertureValue\": \"1485427/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"20\", \"EXIF SubSecTimeOriginal\": \"79\", \"EXIF SubSecTimeDigitized\": \"79\", \"EXIF ExifImageWidth\": \"700\", \"EXIF ExifImageLength\": \"465\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"1152\", \"Interoperability RelatedImageLength\": \"765\", \"EXIF InteroperabilityOffset\": \"788\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"20\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF ImageUniqueID\": \"d12b5f57321ec8ac89f3c0561d5d4a3e\"}",
+    "sha256": "6eba10172c753972cb39f22e2dc81e6cbcbe28eb134b3c81a8b162bf1ddc99dd"
+}

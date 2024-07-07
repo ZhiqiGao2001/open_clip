@@ -1,0 +1,1 @@
+Difference of Squares a2 -- b2 Can take square root of both numbers

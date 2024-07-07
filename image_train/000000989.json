@@ -1,0 +1,13 @@
+{
+    "caption": "Fire on the Screened Porch photo by <PERSON>",
+    "url": "http://www.kathymillertime.com/wp-content/uploads/2014/07/DSC00463.jpg",
+    "key": "000000989",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 700,
+    "original_height": 465,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"NEX-6\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"NEX-6 v1.01\", \"Image DateTime\": \"2013:08:19 19:41:19\", \"Image ExifOffset\": \"226\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"1600\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"1600\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:08:19 19:41:19\", \"EXIF DateTimeDigitized\": \"2013:08:19 19:41:19\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"1\", \"EXIF BrightnessValue\": \"-177/320\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"159/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"50\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"700\", \"EXIF ExifImageLength\": \"465\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"27/16\", \"EXIF FocalLengthIn35mmFilm\": \"75\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensSpecification\": \"[16, 50, 7/2, 28/5]\", \"EXIF LensModel\": \"E PZ 16-50mm F3.5-5.6 OSS\"}",
+    "sha256": "2ba9bed9f459a893cde5a2406797b82643fba52f81c2be37002b93693ddc000d"
+}

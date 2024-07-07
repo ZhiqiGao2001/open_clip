@@ -1,0 +1,13 @@
+{
+    "caption": "XPath: <PERSON> axis: denotes the Element or Text children of the context node.",
+    "url": "https://slideplayer.com/slide/5958162/20/images/32/XPath%3A+Axes+Child+axis%3A+denotes+the+Element+or+Text+children+of+the+context+node..jpg",
+    "key": "000003381",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 960,
+    "original_height": 720,
+    "exif": "{\"Image DocumentName\": \"XPath: Axes Child axis: denotes the Element or Text children of the context node.\", \"Image ImageDescription\": \"Important: An Attribute node has a parent (the element on which it is located), but an attribute node is not one of the children of its parent. Example: child::D.\", \"Image XResolution\": \"37\", \"Image YResolution\": \"37\", \"Image ResolutionUnit\": \"Pixels/Centimeter\", \"Image Software\": \"SlidePlayer\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "7606eac98f1f4016c51393dacaf9fce9cfec745d3613d5ff8e30448d709d44cd"
+}

@@ -1,0 +1,1 @@
+Example 3 -- Finding a Line of Fit ◦ The table shows the weekly sales of a DVD and the number of weeks since its release.

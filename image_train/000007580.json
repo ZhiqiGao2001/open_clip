@@ -1,0 +1,13 @@
+{
+    "caption": "An interrupt triggers a number of events, both in the processor hardware and in software. This figure shows a typical sequence.",
+    "url": "https://slideplayer.com/slide/13656557/84/images/12/An+interrupt+triggers+a+number+of+events%2C+both+in+the+processor+hardware+and+in+software.+This+figure+shows+a+typical+sequence..jpg",
+    "key": "000007580",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image DocumentName\": \"An interrupt triggers a number of events, both in the processor hardware and in software. This figure shows a typical sequence.\", \"Image ImageDescription\": \"When an I/O device completes an I/O operation, the following sequence of hardware events occurs: 1. The device issues an interrupt signal to the processor. 2. The processor finishes execution of the current instruction before responding to the interrupt. 3. The processor tests for a pending interrupt request, determines that there is one, and sends an acknowledgment signal to the device that issued the interrupt. The acknowledgment allows the device to remove its interrupt signal. 4.The processor next needs to prepare to transfer control to the interrupt routine.\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"SlidePlayer\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "ea876fac3d0670097807e14e1a22964e9750048764bd7b0b01589ca7c524db79"
+}

@@ -458,6 +458,18 @@ def parse_args(args):
         default=0.0,
         help='Portion for split in Pseudo-Euclidean.'
     )
+    parser.add_argument(
+        "--regression",
+        default=False,
+        action="store_true",
+        help='Use Regression loss.'
+    )
+    parser.add_argument(
+        "--linear_dim",
+        type=int,
+        default=None,
+        help='Linear Layer Dimension'
+    )
 
     args = parser.parse_args(args)
 

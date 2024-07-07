@@ -1,0 +1,13 @@
+{
+    "caption": "<PERSON> is a knight of <PERSON>, vintage line drawing or engraving illustration.",
+    "url": "https://image.shutterstock.com/z/stock-vector-sir-galahad-is-a-knight-of-king-arthur-s-round-table-vintage-line-drawing-or-engraving-1381866011.jpg",
+    "key": "000005662",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1500,
+    "original_height": 1480,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"299999/1000\", \"Image YResolution\": \"299999/1000\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"1500\", \"EXIF ExifImageLength\": \"1480\"}",
+    "sha256": "ec8d0a9a3633a62bcf11b0c92607f36a74e630a1d83a599e071a28d71960a8c4"
+}

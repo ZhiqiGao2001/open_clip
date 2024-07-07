@@ -1,0 +1,13 @@
+{
+    "caption": "<PERSON> and Child with <PERSON>",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Gerard_Seghers_003.jpg",
+    "key": "000006765",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1596,
+    "original_height": 1051,
+    "exif": "{\"Image ImageWidth\": \"7331\", \"Image ImageLength\": \"4902\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"28\", \"Image YResolution\": \"28\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Centimeter\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2010:01:25 11:07:46\", \"Image ExifOffset\": \"252\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"28\", \"Thumbnail YResolution\": \"28\", \"Thumbnail ResolutionUnit\": \"Pixels/Centimeter\", \"Thumbnail JPEGInterchangeFormat\": \"390\", \"Thumbnail JPEGInterchangeFormatLength\": \"4801\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1596\", \"EXIF ExifImageLength\": \"1051\"}",
+    "sha256": "9943ea58d3a6dfab287362bd6c5cab2420782ba841a342eb6487028778392eb5"
+}

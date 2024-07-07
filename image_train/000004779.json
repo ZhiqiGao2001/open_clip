@@ -1,0 +1,13 @@
+{
+    "caption": "The Allegra Luxury Mansion in Australia (31)",
+    "url": "https://s3-us-east-2.amazonaws.com/largefs-luxedb/luxedb/wp-content/uploads/2011/06/The-Allegra-Luxury-Mansion-in-Australia-3-700x510.jpg",
+    "key": "000004779",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 700,
+    "original_height": 510,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D2X\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Macintosh\", \"Image DateTime\": \"2011:05:30 15:29:19\", \"Image ExifOffset\": \"216\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"862\", \"Thumbnail JPEGInterchangeFormatLength\": \"5172\", \"EXIF ExposureTime\": \"13\", \"EXIF FNumber\": \"18\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:05:27 17:22:06\", \"EXIF DateTimeDigitized\": \"2011:05:27 17:22:06\", \"EXIF ShutterSpeedValue\": \"-92511/25000\", \"EXIF ApertureValue\": \"166797/20000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"19/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTime\": \"73\", \"EXIF SubSecTimeOriginal\": \"73\", \"EXIF SubSecTimeDigitized\": \"73\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"910\", \"EXIF ExifImageLength\": \"663\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"36\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Hard\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "c41795fc10b0a499de3b7a288ac47713e6888fc935bb3b08d693647eb73d857e"
+}

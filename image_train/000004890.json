@@ -1,0 +1,13 @@
+{
+    "caption": "Cat eating from a food dish",
+    "url": "http://geniusvets.s3.amazonaws.com/gv-blog/2019/9/kitty-101-nutrition-blog-3-meals.jpg",
+    "key": "000004890",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 810,
+    "original_height": 450,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ExifImageWidth\": \"810\", \"EXIF ExifImageLength\": \"450\"}",
+    "sha256": "85716ce6071f11b66829531bafebf16a3dd03ca7afca05ab2f0097a55946cd9a"
+}

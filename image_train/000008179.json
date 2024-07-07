@@ -1,0 +1,13 @@
+{
+    "caption": "A colorful portrait by <PERSON>.",
+    "url": "http://www.mcdanielfreepress.com/wp-content/uploads/2015/02/image1-e1469505072939.jpg",
+    "key": "000008179",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 400,
+    "original_height": 600,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image ExifOffset\": \"38\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3456\", \"EXIF ExifImageLength\": \"5184\"}",
+    "sha256": "9e70f43fae2b6a90d9f03f2742b818b2ce87b3a2edd2e968e32c9f8e38a846cb"
+}

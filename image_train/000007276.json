@@ -1,0 +1,13 @@
+{
+    "caption": "Gwynn's Island on the Piankatank River.",
+    "url": "https://www.spinsheet.com/images/gwynnsisland.jpg",
+    "key": "000007276",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 960,
+    "original_height": 717,
+    "exif": "{\"Image ImageWidth\": \"960\", \"Image ImageLength\": \"717\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"Gwynn's Island on the Piankatank River.\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2016:09:19 20:31:38\", \"Image ExifOffset\": \"280\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"766\", \"Thumbnail JPEGInterchangeFormatLength\": \"4630\", \"EXIF ExposureTime\": \"1/4329\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:10:21 13:09:45\", \"EXIF DateTimeDigitized\": \"2013:10:21 13:09:45\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"8021/664\", \"EXIF ApertureValue\": \"4312/1707\", \"EXIF BrightnessValue\": \"1231/110\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"No flash function\", \"EXIF FocalLength\": \"107/25\", \"EXIF SubjectArea\": \"[1295, 967, 699, 696]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"960\", \"EXIF ExifImageLength\": \"717\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "e9c65c78fe0e6cd592d624f197f39f3f4479c63db2d66d25df9f21b1229972c0"
+}

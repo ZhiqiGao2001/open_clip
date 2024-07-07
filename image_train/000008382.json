@@ -1,0 +1,13 @@
+{
+    "caption": "Juniper Cove in the Morning",
+    "url": "http://spiralboundstudio.com/2013/20131006seaphotos/000junipercove.jpg",
+    "key": "000008382",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 650,
+    "original_height": 488,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 5\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"QuickTime 7.7.1\", \"Image DateTime\": \"2013:09:28 08:00:33\", \"Image ExifOffset\": \"190\", \"EXIF ExposureTime\": \"1/444\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:09:24 17:51:28\", \"EXIF DateTimeDigitized\": \"2013:09:24 17:51:28\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"8461/962\", \"EXIF ApertureValue\": \"4845/1918\", \"EXIF BrightnessValue\": \"3808/465\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"103/25\", \"EXIF SubjectArea\": \"[1631, 1223, 1795, 1077]\", \"EXIF SubSecTimeOriginal\": \"453\", \"EXIF SubSecTimeDigitized\": \"453\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"650\", \"EXIF ExifImageLength\": \"488\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"33\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "57456ebeee382f5f1f1869564a0e6be73710f77e356defdbe55ef35a9c9d7bac"
+}

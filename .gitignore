@@ -8,6 +8,7 @@ src/wandb
 image_test/
 tests/data/
 *.pt
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

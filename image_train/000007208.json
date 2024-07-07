@@ -1,0 +1,13 @@
+{
+    "caption": "An apartment in high-rise building with loggia. (Photo: \u00a9 <PERSON>)",
+    "url": "http://www.uncubemagazine.com/sixcms/media.php/1323/thumbnails/24_Toni-Areal_EM2N%20%C2%A9Roger%20Frei.jpg.2358545.jpg",
+    "key": "000007208",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 907,
+    "original_height": 680,
+    "exif": "{\"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Leaf\", \"Image Model\": \"Leaf Aptus-II 7(LI400017   )/Large Format\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2014:09:02 10:42:36\", \"Image Artist\": \"roger frei\", \"Image ExifOffset\": \"270\", \"EXIF ExposureTime\": \"1/2\", \"EXIF FNumber\": \"0\", \"EXIF ISOSpeedRatings\": \"50\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"1970:01:01 00:10:26\", \"EXIF DateTimeDigitized\": \"1970:01:01 00:10:26\", \"EXIF ShutterSpeedValue\": \"1\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1600\", \"EXIF ExifImageLength\": \"1200\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"65535\"}",
+    "sha256": "f5b3845222e1ad9b4e8eae7a92ce3f48d4a49ae552c0ee23fdef1e0d394452f4"
+}

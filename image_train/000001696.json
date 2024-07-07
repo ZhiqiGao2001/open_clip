@@ -1,0 +1,13 @@
+{
+    "caption": "``The Cat in the Hat'' is No. 2.",
+    "url": "https://cdn.newsday.com/polopoly_fs/1.40471716.1578892310!/httpImage/image.jpg_gen/derivatives/landscape_768/image.jpg",
+    "key": "000001696",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 768,
+    "original_height": 430,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"768\", \"EXIF ExifImageLength\": \"430\"}",
+    "sha256": "5af9c5a64cb6a6ddd4bc8b96e08045a3a7f5de4e4b7ecfeab5b9a7524633afb9"
+}

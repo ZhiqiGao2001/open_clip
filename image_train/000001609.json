@@ -1,0 +1,13 @@
+{
+    "caption": "Summary <PERSON> models allow us to model dependencies in sequential data <PERSON> models are described by --states, each state corresponding to a letter in our observed alphabet --transition probabilities between states Parameter estimation can be done by counting the number of transitions between consecutive states (first order) --Laplace correction is often applied Simple example application: classification of genomic region as as CpG islands or not Major application in genomics: gene finding and other genomic segmentation tasks Extensions of <PERSON> models --Higher-order --Inhomogeneous",
+    "url": "https://images.slideplayer.com/28/9381211/slides/slide_30.jpg",
+    "key": "000001609",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 960,
+    "original_height": 720,
+    "exif": "{}",
+    "sha256": "209cfcc6c8798ba3ebb513f0c8be9ab46423143e4d5c46e442e6d0abb04a80e1"
+}

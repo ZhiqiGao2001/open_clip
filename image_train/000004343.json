@@ -1,0 +1,13 @@
+{
+    "caption": "The Black Lion Room 2",
+    "url": "https://static.wixstatic.com/media/648e8c_a68a3e5418cf44b39e6ab084c628d0a7~mv2_d_4032_3024_s_4_2.jpg",
+    "key": "000004343",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 4032,
+    "original_height": 3024,
+    "exif": "{\"Image ImageDescription\": \"OLYMPUS DIGITAL CAMERA\", \"Image Make\": \"OLYMPUS IMAGING CORP.\", \"Image Model\": \"E-30\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Windows)\", \"Image DateTime\": \"2017:12:07 21:46:57\", \"Image ExifOffset\": \"256\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"890\", \"Thumbnail JPEGInterchangeFormatLength\": \"5177\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"640\", \"EXIF ExifVersion\": \"\", \"EXIF ShutterSpeedValue\": \"790241/125000\", \"EXIF ApertureValue\": \"847997/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"249/256\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"8\", \"EXIF FocalLength\": \"30\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"4032\", \"EXIF ExifImageLength\": \"3024\", \"EXIF FileSource\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"60\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"High gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Hard\", \"EXIF Sharpness\": \"Hard\", \"EXIF BodySerialNumber\": \"G68502694\", \"EXIF LensSpecification\": \"[30, 30, 7/5, 7/5]\", \"EXIF LensModel\": \"SIGMA 30mm F1.4 DC HSM\", \"EXIF LensSerialNumber\": \"000000000\"}",
+    "sha256": "54cf246cc6edeeee5b53bcaea6aa4162f049a48361c3678d8736c18bd48da37c"
+}

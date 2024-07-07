@@ -1,0 +1,13 @@
+{
+    "caption": "Covering Red Paint on walls in half the time",
+    "url": "https://www.thediyvillage.com/wp-content/uploads/2014/08/After.jpg",
+    "key": "000003562",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 640,
+    "original_height": 960,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 60D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2014 (Macintosh)\", \"Image DateTime\": \"2014:08:01 17:24:54\", \"Image Artist\": \"Moet\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"902\", \"Thumbnail JPEGInterchangeFormatLength\": \"3924\", \"EXIF ExposureTime\": \"3/10\", \"EXIF FNumber\": \"5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:08:01 09:14:40\", \"EXIF DateTimeDigitized\": \"2014:08:01 09:14:40\", \"EXIF ShutterSpeedValue\": \"868483/500000\", \"EXIF ApertureValue\": \"290241/62500\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"9/2\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"13\", \"EXIF SubSecTime\": \"09\", \"EXIF SubSecTimeOriginal\": \"09\", \"EXIF SubSecTimeDigitized\": \"09\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"960\", \"EXIF FocalPlaneXResolution\": \"777600/181\", \"EXIF FocalPlaneYResolution\": \"518400/119\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"0620403155\", \"EXIF LensSpecification\": \"[11, 18, 0/0, 0/0]\", \"EXIF LensModel\": \"11-18mm\", \"EXIF LensSerialNumber\": \"0000000000\"}",
+    "sha256": "261ab3269da24fc541aab06c53b8923265674184a580fe8b7a6bc925032bc4bb"
+}

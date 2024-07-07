@@ -1,0 +1,1 @@
+Using the plastic opening tool, remove the silver tape covering the display ZIF (zero insertion force) ribbon connector.

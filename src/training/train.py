@@ -14,7 +14,7 @@ try:
 except ImportError:
     wandb = None
 
-from open_clip import get_input_dtype, CLIP, CustomTextCLIP
+from open_clip import get_input_dtype, CLIP, CustomTextCLIP, CLIPWrapper
 from .distributed import is_master
 from .zero_shot import zero_shot_eval
 from .precision import get_autocast
@@ -287,7 +287,17 @@ def evaluate(model, data, epoch, args, tb_writer=None, tokenizer=None):
                     all_image_features.append(image_features.cpu())
                     all_text_features.append(text_features.cpu())
                     logit_scale = logit_scale.mean()
-                    logits_per_image = logit_scale * image_features @ text_features.t()
+                    if args.pseudo_split == 0.0:
+                        logits_per_image = (logit_scale * image_features @ text_features.t())
+                    else:
+                        split_part = int(image_features.shape[1] * args.pseudo_split)
+                        image_features_part1 = image_features[:, :split_part]
+                        image_features_part2 = image_features[:, split_part:]
+                        text_features_part1 = text_features[:, :split_part]
+                        text_features_part2 = text_features[:, split_part:]
+
+                        logits_per_image = logit_scale * (
+                                image_features_part1 @ text_features_part1.T - image_features_part2 @ text_features_part2.T)
                     logits_per_text = logits_per_image.t()
 
                     batch_size = images.shape[0]
@@ -315,6 +325,7 @@ def evaluate(model, data, epoch, args, tb_writer=None, tokenizer=None):
                 image_features=torch.cat(all_image_features),
                 text_features=torch.cat(all_text_features),
                 logit_scale=logit_scale.cpu(),
+                args=args
             )
             loss = cumulative_loss / num_samples
             metrics.update(
@@ -357,9 +368,19 @@ def evaluate(model, data, epoch, args, tb_writer=None, tokenizer=None):
     return metrics
 
 
-def get_clip_metrics(image_features, text_features, logit_scale):
+def get_clip_metrics(image_features, text_features, logit_scale,args    ):
     metrics = {}
-    logits_per_image = (logit_scale * image_features @ text_features.t()).detach().cpu()
+    if args.pseudo_split == 0.0:
+        logits_per_image = (logit_scale * image_features @ text_features.t())
+    else:
+        split_part = int(image_features.shape[1] * args.pseudo_split)
+        image_features_part1 = image_features[:, :split_part]
+        image_features_part2 = image_features[:, split_part:]
+        text_features_part1 = text_features[:, :split_part]
+        text_features_part2 = text_features[:, split_part:]
+
+        logits_per_image = logit_scale * (
+                image_features_part1 @ text_features_part1.T - image_features_part2 @ text_features_part2.T)
     logits_per_text = logits_per_image.t().detach().cpu()
 
     logits = {"image_to_text": logits_per_image, "text_to_image": logits_per_text}

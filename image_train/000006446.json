@@ -1,0 +1,13 @@
+{
+    "caption": "An example on file IO The program reads each line of a file and displays the line. The file consists of several rows.",
+    "url": "https://slideplayer.com/slide/12759995/77/images/63/An+example+on+file+IO+The+program+reads+each+line+of+a+file+and+displays+the+line.+The+file+consists+of+several+rows..jpg",
+    "key": "000006446",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image DocumentName\": \"An example on file IO The program reads each line of a file and displays the line. The file consists of several rows.\", \"Image ImageDescription\": \"Each row has three fields. The fields are separated by a space character. Two fields are strings while one is an integer. Goofy BE 105. Jerry BA 65. Mickey BE 101. Minnie BE 120. Pooh BSc 100. Tigger BSc 70. Tom BA 75.\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"SlidePlayer\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "8a0d73dd1489367cc038a458cdaa3b4c86fdf78181fd693f64bb5b3a22e34be9"
+}

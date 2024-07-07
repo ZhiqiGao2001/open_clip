@@ -1,0 +1,1 @@
+Example 7.3... Find the mean, variance, and standard deviation for the population of the number of color televisions per household... (from Example 7.1)

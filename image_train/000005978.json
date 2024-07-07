@@ -1,0 +1,13 @@
+{
+    "caption": "Fully eclipsed Sun with <PERSON> and a contrail visible",
+    "url": "https://rascvic.zenfolio.com/img/s/v-10/p2484618263-4.jpg",
+    "key": "000005978",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6s Plus\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2017-08-24 23:44:55\", \"Image Copyright\": \"Joseph A. Carr - www.JoeCarr.ca\", \"Image ExifOffset\": \"211\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[44, 102563/2000, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[123, 29187/2000, 0]\", \"GPS GPSAltitude\": \"26992/429\", \"Image GPSInfo\": \"509\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF DateTimeOriginal\": \"2017-08-21 10:16:35\", \"EXIF DateTimeDigitized\": \"2017-08-21 10:16:35\", \"EXIF ShutterSpeedValue\": \"3906891/1000000\", \"EXIF ApertureValue\": \"2275007/1000000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "ab743825574e654e3d909bf4c108958e76cb47bceab836eae83d4c2dc794b472"
+}

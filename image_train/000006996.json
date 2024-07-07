@@ -1,0 +1,13 @@
+{
+    "caption": "The <PERSON>",
+    "url": "https://cdn.shopify.com/s/files/1/0114/4638/6746/products/dragonfly_720x.jpg?v=1562726742",
+    "key": "000006996",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 720,
+    "original_height": 480,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"720\", \"EXIF ExifImageLength\": \"480\"}",
+    "sha256": "2d504fcd1aa859c3e9d0b59715c8d143c69b88ebe406b8f01b55521538bd49ce"
+}

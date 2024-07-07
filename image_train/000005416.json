@@ -1,0 +1,13 @@
+{
+    "caption": "<PERSON> and <PERSON> at the premiere",
+    "url": "https://cdn.newsday.com/polopoly_fs/1.15101050.1511392611!/httpImage/image.jpeg_gen/derivatives/landscape_768/image.jpeg",
+    "key": "000005416",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 768,
+    "original_height": 431,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"768\", \"EXIF ExifImageLength\": \"431\"}",
+    "sha256": "ab8da91be6b7d9837a278e2dad0520aad812fc807bf94619538fd40cf67a8757"
+}

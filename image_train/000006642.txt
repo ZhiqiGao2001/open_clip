@@ -1,0 +1,1 @@
+Parallel Plate Capacitor Each plate is connected to a terminal of the battery The battery is a source of potential difference If the capacitor is initially uncharged, the battery establishes an electric field in the connecting wires

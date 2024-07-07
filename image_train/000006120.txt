@@ -1,0 +1,1 @@
+Page <PERSON> has many smaller illustrations, including chapter headers like this. There's also some tiny red-ink drawings in-text.

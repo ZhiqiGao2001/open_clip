@@ -1,0 +1,13 @@
+{
+    "caption": "First day in the hospital",
+    "url": "https://ashtynsarmy.com/wp-content/uploads/2013/06/First-day-in-the-hospital.jpg",
+    "key": "000008265",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 640,
+    "original_height": 480,
+    "exif": "{\"Image Make\": \"Apple\", \"Image Model\": \"iPhone 4S\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"6.0.1\", \"Image DateTime\": \"2013:06:08 13:13:18\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"204\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[40, 4621/100, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[111, 507/10, 0]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"1399\", \"GPS GPSTimeStamp\": \"[19, 13, 557/100]\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"87922/563\", \"Image GPSInfo\": \"594\", \"EXIF ExposureTime\": \"1/20\", \"EXIF FNumber\": \"12/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:06:08 13:13:18\", \"EXIF DateTimeDigitized\": \"2013:06:08 13:13:18\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"2779/643\", \"EXIF ApertureValue\": \"4312/1707\", \"EXIF BrightnessValue\": \"7871/2999\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"107/25\", \"EXIF SubjectArea\": \"[1631, 1223, 881, 881]\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"35\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "9eb488701feb5afea93b65c79567b2b44363d8cabea21fac149f907648816421"
+}

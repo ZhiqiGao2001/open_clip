@@ -1,0 +1,1 @@
+Truth Tables of Compound Propositions We can use connectives to build up complicated compound propositions involving any number of propositional variables, then use truth tables to determine the truth value of these compound propositions.

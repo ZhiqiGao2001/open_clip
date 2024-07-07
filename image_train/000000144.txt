@@ -1,0 +1,1 @@
+Calculations Use 2-Samp T Int on calculator Fill in formula for CI Estimate ± (Critical Value)(St Dev of Statistic) Note that the calculator tells you the df and it is not a whole number.

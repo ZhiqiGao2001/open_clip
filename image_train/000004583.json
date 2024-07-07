@@ -1,0 +1,13 @@
+{
+    "caption": "Buses An internal bus are the electronic lines inside the CPU",
+    "url": "https://slideplayer.com/slide/12489135/74/images/8/Buses+An+internal+bus+are+the+electronic+lines+inside+the+CPU.jpg",
+    "key": "000004583",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 576,
+    "exif": "{\"Image DocumentName\": \"Buses An internal bus are the electronic lines inside the CPU\", \"Image ImageDescription\": \"External data bus. An internal bus are the electronic lines inside the CPU. Comprised of 16 separate lines. The external bus connects the CPU to external devices. Lines are viewable between expansion slots on the motherboard. Some are used to send data out along the external bus to expansion slots. Internal data bus.\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"SlidePlayer\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "8e1cb4292806871e4034c9773d7ae5eb671f1ed912e819e733598c54edf55cf7"
+}

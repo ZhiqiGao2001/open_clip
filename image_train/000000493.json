@@ -1,0 +1,13 @@
+{
+    "caption": "Are You the New Taipei City Traveller?",
+    "url": "https://alvinology.com/wp-content/uploads/2015/03/NTC-Traveller.jpg",
+    "key": "000000493",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 667,
+    "exif": "{\"Image ImageWidth\": \"2000\", \"Image ImageLength\": \"1667\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS6 (Macintosh)\", \"Image DateTime\": \"2015:03:17 21:52:57\", \"Image ExifOffset\": \"232\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"382\", \"Thumbnail JPEGInterchangeFormatLength\": \"9486\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"667\"}",
+    "sha256": "e015eb181b824c589a08029547d8c9dfe850a6e7c3d08be21db464fed1a0b583"
+}

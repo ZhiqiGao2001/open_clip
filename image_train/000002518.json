@@ -1,0 +1,13 @@
+{
+    "caption": "Tower of London, the Jewel Room, 1878",
+    "url": "http://www.antiqueprints.com/images/ag1/g1797.jpg",
+    "key": "000002518",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 528,
+    "original_height": 401,
+    "exif": "{\"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2009:07:03 18:42:29\", \"Image ExifOffset\": \"110\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"234\", \"Thumbnail JPEGInterchangeFormatLength\": \"7006\", \"EXIF ExifImageWidth\": \"528\", \"EXIF ExifImageLength\": \"401\"}",
+    "sha256": "b17fe60ebac573575d00e7ed269263fa9947ee98d1e81da566d905dfa86ee089"
+}

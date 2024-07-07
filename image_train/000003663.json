@@ -1,0 +1,13 @@
+{
+    "caption": "Sequence Numbers Frames from a sender are numbered sequentially.",
+    "url": "https://slideplayer.com/slide/13391026/80/images/12/Sequence+Numbers+Frames+from+a+sender+are+numbered+sequentially..jpg",
+    "key": "000003663",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 768,
+    "exif": "{\"Image DocumentName\": \"Sequence Numbers Frames from a sender are numbered sequentially.\", \"Image ImageDescription\": \"We need to set a limit since we need to include the sequence number of each frame in the header. If the header of the frame allows m bits for sequence number, the sequence numbers range from 0 to 2 m \\u2013 1. for m = 3, sequence numbers are: 1, 2, 3, 4, 5, 6, 7. We can repeat the sequence number. Sequence numbers are: 0, 1, 2, 3, 4, 5, 6, 7, 0, 1, 2, 3, 4, 5, 6, 7, 0, 1, \\u2026\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"SlidePlayer\", \"Image YCbCrPositioning\": \"Centered\"}",
+    "sha256": "053add37a9427b814e96d8d7a4f597249987a357696b464342f847d4bc38c753"
+}

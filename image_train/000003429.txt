@@ -1,0 +1,1 @@
+Example #7 Modify the following XML document so that it is also a valid RDF document: < xml version= 1.0 >

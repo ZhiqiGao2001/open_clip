@@ -1,0 +1,13 @@
+{
+    "caption": "Banana cake with caramelized pear on a platter",
+    "url": "https://www.foodfromportugal.com/content/uploads/2017/09/banana-cake-caramelized-pear-3.jpg",
+    "key": "000001691",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 750,
+    "original_height": 583,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SX510 HS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2017:09:27 10:04:42\", \"Image ExifOffset\": \"222\", \"EXIF ExposureTime\": \"1/4\", \"EXIF FNumber\": \"9/2\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF SensitivityType\": \"Standard Output Sensitivity and Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:08:30 10:49:30\", \"EXIF DateTimeDigitized\": \"2017:08:30 10:49:30\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"5\", \"EXIF ShutterSpeedValue\": \"2\", \"EXIF ApertureValue\": \"139/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"113/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"43/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"750\", \"EXIF ExifImageLength\": \"583\", \"EXIF FocalPlaneXResolution\": \"1000000/61\", \"EXIF FocalPlaneYResolution\": \"1000000/61\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "b9039250b3e577de7fb2b6d89c5e50cb83bb99ae875ffdeb41f9f3118cef8f38"
+}

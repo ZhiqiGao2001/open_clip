@@ -1,0 +1,13 @@
+{
+    "caption": "<PERSON> at Black Tail Canyon in the Grand Canyon",
+    "url": "http://www.johnwise.com/wp-content/uploads/2020/04/IMG_2662.jpg",
+    "key": "000000865",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 633,
+    "original_height": 950,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS REBEL T2i\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 9.2 (Windows)\", \"Image DateTime\": \"2020:03:28 14:38:16\", \"Image Artist\": \"John Wise\", \"Image Copyright\": \"2010\", \"Image ExifOffset\": \"260\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"7/2\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"1600\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2010:10:30 15:27:45\", \"EXIF DateTimeDigitized\": \"2010:10:30 15:27:45\", \"EXIF OffsetTime\": \"-07:00\", \"EXIF ShutterSpeedValue\": \"3906891/1000000\", \"EXIF ApertureValue\": \"361471/100000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"29/8\", \"EXIF SubjectDistance\": \"4294967295\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"10\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"1036800/181\", \"EXIF FocalPlaneYResolution\": \"691200/119\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF CameraOwnerName\": \"John Wise\", \"EXIF BodySerialNumber\": \"322101129\", \"EXIF LensSpecification\": \"[10, 22, 0/0, 0/0]\", \"EXIF LensModel\": \"EF-S10-22mm f/3.5-4.5 USM\"}",
+    "sha256": "7308fd967d9fefacfa001c804f6be579ea239eb1f37d92d06992d8e05a7265ae"
+}

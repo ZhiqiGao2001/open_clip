@@ -1,0 +1,13 @@
+{
+    "caption": "Suite of the Northern Lights",
+    "url": "https://d1dzqwexhp5ztx.cloudfront.net/imageRepo/3/0/75/552/293/Northern.Bed.FireP_R.jpg",
+    "key": "000009565",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1024,
+    "original_height": 576,
+    "exif": "{\"Image Make\": \"SONY\", \"Image Model\": \"ILCE-7R\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.4 (Windows)\", \"Image DateTime\": \"2016:04:16 18:26:27\", \"Image ExifOffset\": \"200\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"838\", \"Thumbnail JPEGInterchangeFormatLength\": \"14006\", \"EXIF ExposureTime\": \"8\", \"EXIF FNumber\": \"13\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:04:13 15:45:13\", \"EXIF DateTimeDigitized\": \"2016:04:13 15:45:13\", \"EXIF ShutterSpeedValue\": \"-3\", \"EXIF ApertureValue\": \"7400879/1000000\", \"EXIF BrightnessValue\": \"151/640\", \"EXIF ExposureBiasValue\": \"1\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"19\", \"EXIF FocalPlaneXResolution\": \"68839527/32768\", \"EXIF FocalPlaneYResolution\": \"68839527/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensModel\": \"DT 0mm F0 SAM\"}",
+    "sha256": "f67ad054b321ea2dbcb66602b83714812eb0da88310c5f4cec9e9b861820cb06"
+}

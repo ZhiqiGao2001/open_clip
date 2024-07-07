@@ -1,0 +1,1 @@
+Similarly the heuristic that calculates the sum of the direct distances by which all the tiles are out of place is again more informed than the calculation of the number of tiles are out of place with respect to the goal state.

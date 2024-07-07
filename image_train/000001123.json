@@ -1,0 +1,13 @@
+{
+    "caption": "<PERSON> - a coffee art",
+    "url": "https://featherofme.com/wp-content/uploads/Michael-Aaron-Williams-a-coffee-art.jpg",
+    "key": "000001123",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 720,
+    "original_height": 518,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS REBEL T1i\", \"Image Orientation\": \"Horizontal (normal)\", \"Image Software\": \"Adobe Photoshop CS3 Macintosh\", \"Image DateTime\": \"2013:08:05 16:27:29\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"186\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"930\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Action\", \"EXIF ISOSpeedRatings\": \"1600\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:08:05 17:22:00\", \"EXIF DateTimeDigitized\": \"2013:08:05 17:22:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"67/8\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"55\", \"EXIF SubSecTime\": \"37\", \"EXIF SubSecTimeOriginal\": \"37\", \"EXIF SubSecTimeDigitized\": \"37\", \"EXIF FlashPixVersion\": \"\", \"EXIF ExifImageWidth\": \"2790\", \"EXIF ExifImageLength\": \"3478\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"892\", \"EXIF FocalPlaneXResolution\": \"792000/149\", \"EXIF FocalPlaneYResolution\": \"3168000/593\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "3a604718178bfb4b715b879112eaf761b9b2812744a51cc86e5ba89ceff983e8"
+}

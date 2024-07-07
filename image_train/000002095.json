@@ -1,0 +1,13 @@
+{
+    "caption": "The Official TCT Trail Head!",
+    "url": "https://static.wixstatic.com/media/b96fd0_6c9651db8da840bd87d07b5e9ea6bb76~mv2_d_2969_4453_s_4_2.jpg",
+    "key": "000002095",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 2969,
+    "original_height": 4453,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 6D\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 7.0 (Macintosh)\", \"Image DateTime\": \"2017:11:28 23:01:12\", \"Image ExifOffset\": \"216\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"858\", \"Thumbnail JPEGInterchangeFormatLength\": \"17036\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"63/10\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"320\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:11:22 08:22:11\", \"EXIF DateTimeDigitized\": \"2017:11:22 08:22:11\", \"EXIF ShutterSpeedValue\": \"870723/125000\", \"EXIF ApertureValue\": \"331919/62500\", \"EXIF ExposureBiasValue\": \"-2/3\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Partial\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"35\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"1520\", \"EXIF FocalPlaneYResolution\": \"1520\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"252020002401\", \"EXIF LensSpecification\": \"[24, 105, 0/0, 0/0]\", \"EXIF LensModel\": \"EF24-105mm f/4L IS USM\", \"EXIF LensSerialNumber\": \"000043efc8\"}",
+    "sha256": "3fdc1cc5d83d39f1a6c6ce6b8c3a69134e02fcad18156ee91580315f4ce07ee4"
+}

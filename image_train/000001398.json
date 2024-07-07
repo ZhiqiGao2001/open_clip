@@ -1,0 +1,13 @@
+{
+    "caption": "3 Bedrooms Semi Detached House for sale in <PERSON>, Cheslyn Hay WS6",
+    "url": "https://s3-eu-west-1.amazonaws.com/img.nethouseprices.com/lp4/5e62af85392b4.jpg",
+    "key": "000001398",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 534,
+    "exif": "{\"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX P520\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Lightroom 3.2 (Windows)\", \"Image DateTime\": \"2020:03:03 16:24:32\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"240\", \"Thumbnail YResolution\": \"240\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"826\", \"Thumbnail JPEGInterchangeFormatLength\": \"14904\", \"EXIF ExposureTime\": \"1/1250\", \"EXIF FNumber\": \"3\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF SensitivityType\": \"Standard Output Sensitivity\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2020:03:02 13:39:52\", \"EXIF DateTimeDigitized\": \"2020:03:02 13:39:52\", \"EXIF OffsetTime\": \"+00:00\", \"EXIF ShutterSpeedValue\": \"321491/31250\", \"EXIF ApertureValue\": \"126797/40000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"16/5\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"43/10\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"24\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF ImageUniqueID\": \"822B048F3BC54BD285703A451FA089EA\"}",
+    "sha256": "976b47fd4aa61875632548a3415b217c1c8bfb6b54cea5ebf5e901adafe9a7fa"
+}

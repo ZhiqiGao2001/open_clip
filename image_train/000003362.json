@@ -1,0 +1,13 @@
+{
+    "caption": "Kayaks can be rented from Island Rentals at the Fripp Island Marina.",
+    "url": "https://www.findrentals.com/vacations/rentals/12799/126676/fripp-island-cottage-kayaks-rented-rentals-marina-23.jpg",
+    "key": "000003362",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 800,
+    "original_height": 600,
+    "exif": "{\"Image ImageWidth\": \"4608\", \"Image ImageLength\": \"3456\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"\", \"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX S6100\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2015:08:20 11:13:06\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image XPKeywords\": \"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ... ]\", \"Image ExifOffset\": \"519\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormatLength\": \"7504\", \"Thumbnail JPEGInterchangeFormat\": \"1167\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"80\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"0000:00:00 00:00:00\", \"EXIF DateTimeDigitized\": \"0000:00:00 00:00:00\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF ShutterSpeedValue\": \"1165241/125000\", \"EXIF ApertureValue\": \"2485427/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"17/5\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"56\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"600\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"8/5\", \"EXIF FocalLengthIn35mmFilm\": \"314\", \"EXIF SceneCaptureType\": \"Portrait\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "4befe9548cdb86d73a39060c2543d522d2506e637fc776edcdce06ade380fe9d"
+}

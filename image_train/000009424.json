@@ -1,0 +1,13 @@
+{
+    "caption": "<PERSON> and <PERSON> at the valley overlook.",
+    "url": "https://raviandalison.files.wordpress.com/2014/06/dsc04976.jpg?w=640",
+    "key": "000009424",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 640,
+    "original_height": 427,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"SONY\", \"Image Model\": \"NEX-7\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"350\", \"Image YResolution\": \"350\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"NEX-7 v1.03\", \"Image DateTime\": \"2014:05:29 08:22:05\", \"Image ExifOffset\": \"226\", \"EXIF ExposureTime\": \"1/160\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"160\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"160\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:05:29 08:22:05\", \"EXIF DateTimeDigitized\": \"2014:05:29 08:22:05\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"2\", \"EXIF BrightnessValue\": \"4291/640\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"16\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"640\", \"EXIF ExifImageLength\": \"427\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"24\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF LensSpecification\": \"[16, 16, 14/5, 14/5]\", \"EXIF LensModel\": \"E 16mm F2.8\"}",
+    "sha256": "305a2672fee018bac9c1b44a5f1947eda01ca6b90d6416ad85911de0f3b6d1b5"
+}

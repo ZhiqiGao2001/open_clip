@@ -1,0 +1,13 @@
+{
+    "caption": "<PERSON> in the Snow Storm!",
+    "url": "https://images.squarespace-cdn.com/content/v1/53738ff8e4b0e5824b356cc6/1452284568615-MJDDPPKPQG72GHLNNMB2/ke17ZwdGBToddI8pDm48kFWxnDtCdRm2WA9rXcwtIYR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UcTSrQkGwCGRqSxozz07hWZrYGYYH8sg4qn8Lpf9k1pYMHPsat2_S1jaQY3SwdyaXg/JohnCraig_2016_00458.jpg",
+    "key": "000000600",
+    "status": "success",
+    "error_message": null,
+    "width": 256,
+    "height": 256,
+    "original_width": 1500,
+    "original_height": 1000,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 7D Mark II\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.1 (Windows)\", \"Image DateTime\": \"2016:01:08 15:06:51\", \"Image Artist\": \"John Hugh Craig\", \"Image Copyright\": \"JHC Photo\", \"Image ExifOffset\": \"134\", \"EXIF ExposureTime\": \"1/800\", \"EXIF FNumber\": \"28/5\", \"EXIF ExposureProgram\": \"Shutter Priority\", \"EXIF ISOSpeedRatings\": \"6400\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"6400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:01:03 08:57:05\", \"EXIF DateTimeDigitized\": \"2016:01:03 08:57:05\", \"EXIF ShutterSpeedValue\": \"602741/62500\", \"EXIF ApertureValue\": \"2485427/500000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"5\", \"EXIF MeteringMode\": \"Spot\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"400\", \"EXIF SubSecTimeOriginal\": \"58\", \"EXIF SubSecTimeDigitized\": \"58\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"79937569/32768\", \"EXIF FocalPlaneYResolution\": \"79937569/32768\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"072122000349\", \"EXIF LensSpecification\": \"[400, 400, 0/0, 0/0]\", \"EXIF LensModel\": \"EF400mm f/5.6L USM\", \"EXIF LensSerialNumber\": \"0000000000\"}",
+    "sha256": "6416786f29c113038ef7dd6c4e3a1003c7b9edab6b6a94c396b3af1bd17f46b1"
+}
