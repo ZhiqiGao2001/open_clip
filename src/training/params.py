@@ -459,6 +459,12 @@ def parse_args(args):
         help='Portion for split in Pseudo-Euclidean.'
     )
     parser.add_argument(
+        "--fix_logit_scale",
+        type=float,
+        default=None,
+        help='Fix the logit scale in the model.'
+    )
+    parser.add_argument(
         "--regression",
         default=False,
         action="store_true",

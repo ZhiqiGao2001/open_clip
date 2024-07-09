@@ -380,6 +380,7 @@ def create_loss(args):
         world_size=args.world_size,
         use_horovod=args.horovod,
         pseudo_split=args.pseudo_split,
+        fix_logit_scale=args.fix_logit_scale,
     )
 
 

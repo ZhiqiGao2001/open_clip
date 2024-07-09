@@ -74,6 +74,7 @@ class ClipLoss(nn.Module):
             world_size=1,
             use_horovod=False,
             pseudo_split=0.0,
+            fix_logit_scale=None
     ):
         super().__init__()
         self.local_loss = local_loss
@@ -87,6 +88,7 @@ class ClipLoss(nn.Module):
         self.prev_num_logits = 0
         self.labels = {}
         self.split_portion = pseudo_split
+        self.fix_logit_scale = fix_logit_scale
 
     def get_ground_truth(self, device, num_logits) -> torch.Tensor:
         # calculated ground-truth and cache if enabled
@@ -135,6 +137,9 @@ class ClipLoss(nn.Module):
 
     def forward(self, image_features, text_features, logit_scale, output_dict=False):
         device = image_features.device
+        if self.fix_logit_scale:
+            logit_scale = self.fix_logit_scale
+            # print("Fix logit scale to", logit_scale)
         logits_per_image, logits_per_text = self.get_logits(image_features, text_features, logit_scale)
 
         labels = self.get_ground_truth(device, logits_per_image.shape[0])
