@@ -141,7 +141,7 @@ def load_state_dict(checkpoint_path: str, map_location='cpu'):
 
 
 def load_checkpoint(
-        model: Union[CLIP, CustomTextCLIP],
+        model: Union[CLIP, CustomTextCLIP, CLIPWrapper],
         checkpoint_path: str,
         strict: bool = True,
 ):

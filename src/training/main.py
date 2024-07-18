@@ -436,8 +436,8 @@ def main(args):
     if args.linear_dim is not None:
         optimizer_2 = optimizer
         scheduler_2 = scheduler
+        model.freeze_weights()
 
-    model.freeze_weights()
     for epoch in range(start_epoch, args.epochs):
         if is_master(args):
             logging.info(f'Start epoch {epoch}')
