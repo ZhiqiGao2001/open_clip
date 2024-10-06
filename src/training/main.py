@@ -318,6 +318,20 @@ def main(args):
         gain_or_bias_params = [p for n, p in named_parameters if exclude(n, p) and p.requires_grad]
         rest_params = [p for n, p in named_parameters if include(n, p) and p.requires_grad]
 
+        # text_params = []
+        # for n, p in named_parameters:
+        #     if 'visual' not in n:
+        #         print(n)
+        #         text_params.append(p)
+        #
+        # optimizer = optim.AdamW(
+        #     [
+        #         {"params": text_params, "weight_decay": args.wd},
+        #     ],
+        #     lr=args.lr,
+        #     betas=(args.beta1, args.beta2),
+        #     eps=args.eps,
+        # )
         optimizer = optim.AdamW(
             [
                 {"params": gain_or_bias_params, "weight_decay": 0.},
@@ -327,6 +341,12 @@ def main(args):
             betas=(args.beta1, args.beta2),
             eps=args.eps,
         )
+        # for group in optimizer.param_groups:
+        #     for param in group['params']:
+        #         # Find the name corresponding to the parameter
+        #         for name, p in model.named_parameters():
+        #             if p is param:
+        #                 print(name)
         if args.horovod:
             optimizer = hvd.DistributedOptimizer(optimizer, named_parameters=model.named_parameters())
             hvd.broadcast_parameters(model.state_dict(), root_rank=0)
