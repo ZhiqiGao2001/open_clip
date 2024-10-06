@@ -209,7 +209,7 @@ def train_model(model_to_tune, train_loader, num_epochs, criterion, union_relati
     return model_to_tune
 
 
-def check_word_distance(model_to_check, tokenizer_, texts_list_):
+def check_word_distance(model_to_check, tokenizer_, texts_list_, check_inter_group=False):
     embeddings = []
     # Add a progress bar for processing text groups
     for arr in tqdm(texts_list_, desc='Processing text groups'):
@@ -235,22 +235,26 @@ def check_word_distance(model_to_check, tokenizer_, texts_list_):
                 num_of_same_group += 1
                 pbar_intra.update(1)
 
-    # Calculate total number of inter-group pairs for progress bar
-    inter_group_combinations = list(itertools.combinations(embeddings, 2))
-    total_inter_pairs = sum(len(g1) * len(g2) for g1, g2 in inter_group_combinations)
+    if check_inter_group:
+        # Calculate total number of inter-group pairs for progress bar
+        inter_group_combinations = list(itertools.combinations(embeddings, 2))
+        total_inter_pairs = sum(len(g1) * len(g2) for g1, g2 in inter_group_combinations)
 
-    # Add a progress bar for computing inter-group similarities
-    with tqdm(total=total_inter_pairs, desc='Computing inter-group similarities') as pbar_inter:
-        for group1, group2 in inter_group_combinations:
-            for u in group1:
-                for v in group2:
-                    cosine_similarity = F.cosine_similarity(u, v)
-                    cosine_similarity_diff_group += cosine_similarity.detach().cpu().numpy()
-                    num_of_diff_group += 1
-                    pbar_inter.update(1)
+        # Add a progress bar for computing inter-group similarities
+        with tqdm(total=total_inter_pairs, desc='Computing inter-group similarities') as pbar_inter:
+            for group1, group2 in inter_group_combinations:
+                for u in group1:
+                    for v in group2:
+                        cosine_similarity = F.cosine_similarity(u, v)
+                        cosine_similarity_diff_group += cosine_similarity.detach().cpu().numpy()
+                        num_of_diff_group += 1
+                        pbar_inter.update(1)
 
-    print(f"Average distance within the same group: {cosine_similarity_same_group / num_of_same_group}")
-    print(f"Average distance between different groups: {cosine_similarity_diff_group / num_of_diff_group}")
+        print(f"Average distance within the same group: {cosine_similarity_same_group / num_of_same_group}")
+        print(f"Average distance between different groups: {cosine_similarity_diff_group / num_of_diff_group}")
+    else:
+        print(f"Average distance within the same group: {cosine_similarity_same_group / num_of_same_group}")
+
 
 
 def print_distance_2d_array(model_to_check, tokenizer_, texts_list_):
@@ -324,9 +328,9 @@ tokenizer = open_clip.get_tokenizer('ViT-B-32')
 model, _, _ = open_clip.create_model_and_transforms('ViT-B-32', pretrained='laion400m_e31')
 model = model.to('cuda')
 
-# with torch.no_grad():
-#     # print_distance_2d_array(model, tokenizer, emotion_synonym)
-#     check_word_distance(model, tokenizer, wordnet_synonyms)
+with torch.no_grad():
+    # print_distance_2d_array(model, tokenizer, emotion_synonym)
+    check_word_distance(model, tokenizer, wordnet_synonyms)
 
 model_trained_ = train_model(
     model_to_tune=model,
